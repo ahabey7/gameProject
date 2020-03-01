@@ -1,0 +1,11 @@
+table, th, td{
+    background-color: black;
+    border: 1px solid white;
+
+}
+
+table{
+    table-layout: fixed;
+    width: 90px;
+    height:600px;
+}
