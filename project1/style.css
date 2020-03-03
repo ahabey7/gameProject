@@ -1,11 +1,10 @@
-table, th, td{
+.card{
+    height:150px;
     background-color: black;
-    border: 1px solid white;
-
 }
 
-table{
-    table-layout: fixed;
-    width: 90px;
-    height:600px;
+img{
+    height: 1 px;
+
+
 }
